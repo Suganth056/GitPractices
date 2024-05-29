@@ -3,3 +3,4 @@ git add ->  used to add changes in staging area
 git commit -> used to move file into git folder(local folder)
 git push ->used to move file int remote places loke github
 git pull ->if changes made in github then pull is used to aware in local folder
+git status 
